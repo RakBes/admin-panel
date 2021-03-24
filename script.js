@@ -11,7 +11,7 @@
 // alert(isBose); 
 
 let x;
-x=6;
-const y=12;
-var z=1;
+x = 6;
+const y = 12;
+var z = 1;
 console.log(x);
