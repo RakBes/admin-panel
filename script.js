@@ -28,4 +28,6 @@ if (x < 0 && x > -2) {
 
 if (y === 0) {
     alert('Делить на ноль нельзя')
+    console.log(y);
+    console.log(x);
 }
