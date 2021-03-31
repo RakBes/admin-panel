@@ -29,5 +29,8 @@ if (x < 0 && x > -2) {
 if (y === 0) {
     alert('Делить на ноль нельзя')
     console.log(y);
+<<<<<<< HEAD
     console.log(x);
+=======
+>>>>>>> e9e3379b293df1a27a9536cc3a6203e32cfc8e9b
 }
